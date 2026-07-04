@@ -1,3 +1,7 @@
+NOTE: This README was made by a rather MECHANISTIC minion... it shall be edited by a human *later*....
+## ZARAI-AI FINDS THIS SKILL TO WORK EXCEPTIONALLY WELL WITH 'KIMI 2.6 AGENT'
+## HAS NOT TESTED WITH CLAUDE CODE OR THE PENDANTIC PRICK, GPT-5.5 - BUT WHAT FOR, KIMI 2.6 AGENT HAS BEEN DOING *SUPERBLY*
+
 # Fable 5 Prompt Hygiene — Apex Edition
 
 > Surgical prompt sanitization for Anthropic Fable 5 false positives on legitimate advanced engineering prompts.
