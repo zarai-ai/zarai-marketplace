@@ -1,4 +1,5 @@
 ---
+
 NOTE: This README was made by a rather MECHANISTIC minion... it shall be edited by a human *later*.... The *real* way to use this is to plug it in as a skill to your favorite AI (Anti-Intelligence) of your choice. It was made via Kimi 2.6 Agent (not Kimi CLI) via https://kimi.com - Surprisingly the Agent has been found to be rather helpful at times...
 
 ## ZARAI-AI FINDS THIS SKILL TO WORK EXCEPTIONALLY WELL WITH 'KIMI 2.6 AGENT'
