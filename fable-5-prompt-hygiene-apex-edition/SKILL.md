@@ -1,5 +1,5 @@
 ---
-name: fable5-prompt-hygiene-apex-edition
+name: fable-5-prompt-hygiene-apex-edition
 description: Surgical prompt sanitization for Anthropic Fable 5 false positives on legitimate advanced engineering prompts. NOT a safety bypass — this skill removes classifier triggers from already-legitimate prompts (quantum computing, systems programming, polyglot architecture, cybersecurity defense, computational physics). Triggers on Chat paused, Opus 4.8 fallback, false positive safety flags, prompt getting blocked, or requests to sanitize complex engineering prompts for Fable 5. Also triggers on quantum computing prompts, requests to fix Fable 5 prompts, or when technical vocabulary (ab initio, self-catalyzing, synthesize, extremal, penetration testing, protein folding) incorrectly triggers the cyber/bio/chemistry/frontier_llm classifiers. Does NOT help bypass legitimate safety blocks (CBRN, malware, model distillation) — hard blocks should not be sanitized.
 ---
 
