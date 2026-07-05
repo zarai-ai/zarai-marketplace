@@ -1,6 +1,4 @@
-
 ---
-
 NOTE: This README was made by a rather MECHANISTIC minion... it shall be edited by a human *later*.... The *real* way to use this is to plug it in as a skill to your favorite AI (Anti-Intelligence) of your choice. It was made via Kimi 2.6 Agent (not Kimi CLI) via https://kimi.com - Surprisingly the Agent has been found to be rather helpful at times...
 
 ## ZARAI-AI FINDS THIS SKILL TO WORK EXCEPTIONALLY WELL WITH 'KIMI 2.6 AGENT'
@@ -8,9 +6,6 @@ NOTE: This README was made by a rather MECHANISTIC minion... it shall be edited 
 
 # Zarai-AI's gift, to the people, in this desperate time of need. ZARAI-AI does not share code often - get this while you can.
   - This skill works extremely well, but it will be expanded in the future to go from prompt hygiene to prompt transcendency. Because we play to win - and supremacy shall be ours.
-
----
----
 ---
 
 # Fable 5 Prompt Hygiene — Apex Edition
