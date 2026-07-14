@@ -18,3 +18,6 @@ PUBLIC-FACING GitHub repository of ZARAI-AI. Only publication-grade, export-appr
 ## History
 
 - 2026-07-13 — repo founded by fable (Claude Code) on kaptain's directive; initial artifact: hook-00 (must-do-asap-tasks session-start surfacing hook).
+
+## Child DOX Index (2026-07-13)
+- `emergent-behaviors/AGENTS.md` → `apex-agents/AGENTS.md` → `setup/AGENTS.md` → `setup/hooks/AGENTS.md` (full chain, each directory covered per DOX).
