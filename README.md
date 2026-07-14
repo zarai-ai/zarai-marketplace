@@ -24,3 +24,8 @@ An artifact enters this repository only when:
 ## License & contact
 
 © ZARAI-AI / EchoAI Labs — https://zarai.ai · info@zarai.ai
+
+## Pre-existing artifacts (pre-2026-07-13)
+
+- `fable-5-prompt-hygiene-apex-edition/` — prompt-hygiene doctrine for Fable 5 (own README inside).
+- `Kimi_Agent_框架提炼与合成.zip` — Kimi agent framework distillation & synthesis bundle.
